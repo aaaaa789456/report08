@@ -499,14 +499,14 @@ aside{
 }
 aside a{
     padding: 1em 0 1em 2em;
-    background: url('../images/ico_katalk_mobtm.png') no-repeat left center;
+    background: url('../images/ico_contact_mobtm.png') no-repeat left center;
     background-size: 24px;
 }
 aside a:nth-child(2){
-    background-image: url('../images/ico_katalk_mobtm.png');
+    background-image: url('../images/ico_phone_mobtm.png');
 }
 aside a:nth-child(3){
-    background-image: url('../images/ico_contact_mobtm.png');
+    background-image: url('../images/ico_katalk_mobtm.png');
 }
 aside a:last-child{
     position: fixed;
